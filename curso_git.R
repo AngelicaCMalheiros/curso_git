@@ -1,5 +1,6 @@
 credentials::set_github_pat("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")
 
+
 # - TRANSFORMAÇÃO DOS DADOS ----
 
 #Abrir a base de dados no R
